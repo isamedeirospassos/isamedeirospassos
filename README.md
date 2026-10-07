@@ -32,8 +32,8 @@ Explorando a evolução dos casos, da vacinação e dos óbitos com visualizaç�
 **[Dashboard de finanças pessoais](https://github.com/isamedeirospassos/Dashboard-de-Finan-as-Pessoais)**  
 Um projeto de dashboard voltado a finanças pessoais.
 
-**[Análise do Ecommerce Olist]([https://github.com/isamedeirospassos/Portfolio](https://github.com/isamedeirospassos/analise-ecommerce-olist)**  
-Meu espaço para reunir projetos e explorar criatividade, design e tecnologia.
+**[Análise do E-commerce Olist](https://github.com/isamedeirospassos/analise-ecommerce-olist)**  
+Análise de pedidos da Olist com Python e Pandas, explorando atrasos nas entregas e sua relação com as avaliações dos clientes.
 
 ### ✦ O que me move
 
