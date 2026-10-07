@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isabellabmpassos/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
-  <a href="https://isamedeirospassos.github.io/Portfolio/index.html#inicio" target="_blank" rel="noopener noreferrer">Meus projetos</a>
+  <a href="https://www.linkedin.com/in/isabellabmpassos/" target="_blank">LinkedIn</a> ·
+  <a href="https://isamedeirospassos.github.io/Portfolio/index.html#inicio" target="_blank">Meus projetos</a>
 </p>
 
 ### ✦ Oi, eu sou a Isa!
@@ -32,7 +32,7 @@ Explorando a evolução dos casos, da vacinação e dos óbitos com visualizaç�
 **[Dashboard de finanças pessoais](https://github.com/isamedeirospassos/Dashboard-de-Finan-as-Pessoais)**  
 Um projeto de dashboard voltado a finanças pessoais.
 
-**[Portfólio](https://github.com/isamedeirospassos/Portfolio)**  
+**[Análise do Ecommerce Olist]([https://github.com/isamedeirospassos/Portfolio](https://github.com/isamedeirospassos/analise-ecommerce-olist))**  
 Meu espaço para reunir projetos e explorar criatividade, design e tecnologia.
 
 ### ✦ O que me move
